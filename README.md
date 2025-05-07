@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently CS student in Hue University of Sciences and <br>🌱 I’m currently learning FlaskAPI, FastAPI, Machine Learning, AI,...
+🔭 I’m currently CS student in Hue University of Sciences and Python Developer Intern<br>🌱 I’m currently learning FlaskAPI, FastAPI, Machine Learning, AI,...
 
 
 # 💻 Tech Stack:
