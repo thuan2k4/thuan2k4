@@ -1,0 +1,25 @@
+name: Update README daily
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 00:00 UTC (07:00 sáng giờ VN)
+  workflow_dispatch:       # cho phép chạy thủ công từ tab Actions
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          echo "Last updated at $(date)" > README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: auto update readme $(date)" || echo "No changes to commit"
+          git push
