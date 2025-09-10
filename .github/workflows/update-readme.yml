@@ -2,8 +2,11 @@ name: Update README daily
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 00:00 UTC (07:00 sáng giờ VN)
-  workflow_dispatch:       # cho phép chạy thủ công từ tab Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # cấp quyền ghi vào repo
 
 jobs:
   update-readme:
@@ -11,10 +14,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update README
         run: |
-          echo "Last updated at $(date)" > README.md
+          if grep -q "Last updated at" README.md; then
+            sed -i "s/^Last updated at.*/Last updated at $(date)/" README.md
+          else
+            echo "\nLast updated at $(date)" >> README.md
+          fi
 
       - name: Commit and push changes
         run: |
