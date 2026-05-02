@@ -1,39 +1,97 @@
-## Hi there 👋
 
-<!--
-**thuan2k4/thuan2k4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Portfolio README: Professional one-page summary -->
 
-Here are some ideas to get you started:
+<p align="center">
+	<img src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen" alt="status" />
+	<img src="https://img.shields.io/badge/Focus-Backend%20%7C%20AI%20%7C%20Infra-blue" alt="focus" />
+	<img src="https://img.shields.io/badge/Location-Vietnam-red" alt="location" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Đào Quang Thuận — Software Engineer (Intern)
 
-# 💫 About Me:
-<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d.q.thuan264) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/đào-quang-thuận-540414327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qthuan1234@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thuan2k4&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thuan2k4&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thuan2k4&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> Xây dựng backend production-grade · Pipeline bất đồng bộ đáng tin cậy · Tích hợp AI / OCR
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thuan2k4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-\nLast updated at Thu Sep 11 01:52:23 UTC 2025
+## Giới thiệu — Tóm tắt
+
+- Kỹ năng: Backend production (FastAPI, NestJS), pipeline bất đồng bộ (Celery, Azure Service Bus), workflow AI/OCR, frontend (React), và CI/CD/ops.
+- Phong cách làm việc: Tư duy sản phẩm, ưu tiên độ tin cậy, đo lường tác động và tối ưu chi phí vận hành.
+- Lưu ý: Một số dự án doanh nghiệp được bảo mật theo NDA — tôi có thể cung cấp bản tóm tắt kỹ thuật sau khi ký NDA.
+
+---
+
+## Kỹ năng chính
+
+| Lĩnh vực | Nổi bật |
+|---|---|
+| Backend | FastAPI, NestJS, REST/GraphQL, thiết kế SQL/NoSQL |
+| Async & Queue | Celery, Azure Service Bus — retry/backoff, idempotency |
+| AI / Data | OCR pipelines, LLM post-processing, workflow xử lý audio |
+| Frontend | React, Vite, Tailwind, caching phía client (IndexedDB) |
+| DevOps | Docker, GitHub Actions, Netlify / Railway / Render, observability (Sentry) |
+| Integrations | Thanh toán QR, Telegram, API bên thứ ba |
+
+<p>
+	<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="fastapi" />
+	<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="python" />
+	<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="nestjs" />
+	<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="react" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="docker" />
+</p>
+
+---
+
+## Dự án nổi bật
+
+- 🔒 **Dự án doanh nghiệp (bảo mật / NDA)**
+	- Vai trò: Backend & thiết kế hệ thống, reliability engineering
+	- Kết quả: Triển khai pipeline bất đồng bộ production-grade và luồng event realtime; giảm lỗi bằng cách harden retry/idempotency và sửa các regression (race-condition, giới hạn kích thước message). Bản tóm tắt kỹ thuật có sẵn sau khi ký NDA.
+
+- 🧾 **QR Menu Generator (public)** — MVP+ cho menu số và thanh toán qua QR
+	- Thanh toán: BANK / COD + hiển thị VietQR
+	- Thông báo: Telegram cho đơn hàng
+	- UX: Template / theme editor, tối ưu mobile-first
+	- Vận hành: Caching phía client cho Firestore, CI/CD cho FE & BE
+
+
+---
+
+
+### Ảnh demo — QR Menu (screenshots)
+
+<table align="center">
+	<tr>
+		<td colspan="4">
+			<img src="assets/preview_1.png" alt="QR Menu — Chi tiết sản phẩm (hero)" width="1000" style="max-width:100%;height:auto;border-radius:8px;" />
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<img src="assets/preview_2.png" alt="QR Menu — Danh sách menu (desktop)" width="220" style="max-width:100%;height:auto;border-radius:6px;" />
+		</td>
+		<td align="center">
+			<img src="assets/preview_3.png" alt="QR Menu — Thông báo Telegram" width="220" style="max-width:100%;height:auto;border-radius:6px;" />
+		</td>
+		<td align="center">
+			<img src="assets/preview_4.png" alt="QR Menu — Trình chỉnh sửa chủ đề (admin)" width="220" style="max-width:100%;height:auto;border-radius:6px;" />
+		</td>
+		<td align="center">
+			<img src="assets/preview_5.png" alt="QR Menu — Thanh toán VietQR" width="220" style="max-width:100%;height:auto;border-radius:6px;" />
+		</td>
+	</tr>
+</table>
+
+_Lưu ý: Hiện chỉ hiển thị ảnh/screenshots. Demo trực tiếp (production) được cung cấp theo yêu cầu hoặc sau khi ký NDA._
+
+
+## Liên hệ
+
+- ✉️ Email: qthuan1234@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/đào-quang-thuận-540414327
+
+---
+
+Nếu bạn muốn một case-study đã được redacted, phiên bản tiếng Anh của portfolio này, hoặc thêm ảnh/ GIF demo, cho mình biết — mình sẽ chuẩn bị tiếp theo.
+
+
