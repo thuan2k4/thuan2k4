@@ -3,27 +3,23 @@
   <a href="README.md">🇻🇳 Vietnamese version</a>
 </p>
 
-<!-- Profile Header with Capsule Render -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Đào%20Quang%20Thuận&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Đào%20Quang%20Thuận&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%7C%20Vibe%20Coding&descAlignY=65&descSize=20&animation=fadeIn" />
 </p>
 
-<!-- Bio Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer%20(Intern)-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineer%20%7C%20AI%20%7C%20Vibe%20Coding-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Vietnam-red?style=for-the-badge" />
-</p>
-
-<h2 align="center">✨ "Vibe Coding & Engineering" ✨</h2>
-
-<p align="center">
-  <i>Originally a Backend & AI Engineer, I expanded my capabilities into Software Engineering through <b>"Vibe Coding"</b> to optimize deployment speed and user experience.</i>
+  <a href="mailto:qthuan1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/đào-quang-thuận-540414327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/CodeGiToanBug"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/d.q.thuan264"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 Professional Summary
+### 💻 Software Engineer
+
+*Originally a Backend & AI Engineer, I expanded my capabilities into Software Engineering through **"Vibe Coding"** to optimize deployment speed and user experience.*
 
 - ⚡ **Journey**: Started with AI & Backend research, I now combine the power of AI Agents with system knowledge to build end-to-end products.
 - 🛠️ **Key Strengths**: Designing flexible architectures, handling asynchronous challenges, and optimizing operational costs for real-world projects.
@@ -31,51 +27,46 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Technical Skills
 
-<p align="center">
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-005850?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
-</p>
+- ⚙️ **Backend**: Python (FastAPI, Flask), Node.js (NestJS, Express), C# (ASP.NET Core)
+- 🎨 **Frontend**: React, Vite, TailwindCSS
+- 🛢️ **Databases**: PostgreSQL, MongoDB, Firebase (Firestore)
+- 🔄 **Async & Realtime**: Celery, Message Queue, WebSocket (Socket.io)
+- 🤖 **AI & Applied Engineering**: Audio DSP (FFmpeg, Librosa, Pydub), Computer Vision - Application (YOLO, EfficientNet), OCR - Application (VietOCR, PaddleOCR, TesseractOCR)
+- 🚀 **DevOps & Cloud**: Git, Docker, GitHub Actions, Azure Service Bus/Storage
 
-<details>
-<summary><b>🔍 View detailed skills</b></summary>
+---
 
-| Domain | Highlighted Technologies |
-|---|---|
-| **Backend** | FastAPI, NestJS, RESTful API, Database Design (SQL/NoSQL) |
-| **Async & Reliability** | Celery, Azure Service Bus — **Exponential Backoff**, **Idempotency** |
-| **AI & Data** | OCR Pipeline, LLM Post-processing, Audio Processing workflows |
-| **Frontend** | React, TypeScript, Framer Motion, **Client-side Caching** |
-| **DevOps & Quality** | Docker, GitHub Actions (CI/CD), Ruff/ESLint, Vitest |
-| **Integrations** | VietQR Payment, Telegram Bot API, OAuth 2.0 |
+### 💼 Software Engineer Intern at `<Tenomad (Vietnam)/>`
+*Timeline: Apr 2025 – Present*
 
-</details>
+**Key Responsibilities & Achievements:**
+- 🎙️ **Audio AI Processing**: Designed and optimized a high-performance asynchronous audio processing pipeline. Researched and integrated digital signal processing (DSP) solutions to enhance audio quality, while optimizing the architecture to reduce overall system latency by 23%.
+- 📄 **Enterprise Document Digitization**: Co-designed async pipeline with FastAPI, Celery, Message Queue. Architected pluggable OCR provider (Factory Pattern). Built NestJS Document Service with WebSocket.
+- 📱 **Digital QR Menu System**: Migrated Firestore to PostgreSQL, ported React templates, integrated MinIO storage.
+- 🖨️ **Commercial Printing Service**: Reduced response latency by 20%, refactored SQL queries to prevent connection pooling exhaustion.
+
+---
+
+### 🚀 Solo Fullstack Developer (Freelance) at `<QR Menu Maker/>`
+*Timeline: Apr 2026 – Present*
+
+**Key Responsibilities & Achievements:**
+- ☕ **Platform**: Self-ordering system deployed at 2 coffee shops with dynamic QR payments, Telegram Bot order management, Firestore read optimization (70-90% reduction), and CI/CD pipeline.
+- ✨ **Key Features**: Realtime theme editor with live preview; Geospatial delivery validation; Daily analytics aggregation; Client-side IndexedDB caching.
 
 ---
 
 ### 🏗️ Selected Projects
 
-> [!IMPORTANT]
-> **Enterprise OCR & AI Processing System (NDA)**
-> *Backend & System Design*
-> - Implemented enterprise-scale asynchronous document processing systems using decoupled architectures.
-> - Optimized data flows and system self-healing capabilities against cloud infrastructure constraints.
-> - Handled real-time challenges and state synchronization across multiple services.
-
-> [!TIP]
-> **QR Menu Generator (Public MVP+)**
-> *Digital Menu Creation & Automated QR Checkout Platform*
-> - **Optimization**: Optimized data queries and integrated smart caching mechanisms.
-> - **Automation**: Automated payment flows and order notifications directly via Telegram.
-> - **Development Flow**: Applied a fully automated CI/CD process.
+- 🛒 **Fullstack E-Commerce** (Sept – Oct 2025): React, Express.js, MongoDB, JWT, Jest. RESTful APIs with RBAC, 80%+ test coverage.
+- 🪪 **CCCD Extraction System** (Apr – May 2025): YOLO + VietOCR + Flask. Automated Vietnamese ID card information extraction.
+- 🏠 **Smart Home IoT** (Dec 2022 – Dec 2023): ESP8266, MicroPython, SQLite, MQTT. "Outstanding Research Project" award.
 
 ---
 
-### 🖼️ Preview: QR Menu Generator
+### 🖼️ Preview: QR Menu Maker
 
 <table align="center">
   <tr>
@@ -93,13 +84,17 @@
 
 ---
 
-### 📫 Connect with me
+### 🛠️ Tech Stack
 
 <p align="center">
-<a href="mailto:qthuan1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/đào-quang-thuận-540414327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/CodeGiToanBug"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/d.q.thuan264"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,cs,fastapi,nestjs,react,tailwind,postgres,mongodb,firebase,docker,git,githubactions,azure&perline=8" />
+  </a>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" />
 </p>
 
 <p align="center">
