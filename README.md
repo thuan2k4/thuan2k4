@@ -43,7 +43,7 @@ Làm việc trên nhiều dự án phần mềm nội bộ và client-facing li�
 #### Enterprise Document Processing
 - Xây dựng dịch vụ xử lý tài liệu bất đồng bộ sử dụng FastAPI, Celery và Azure Service Bus.
 - Thiết kế kiến trúc OCR linh hoạt và mở rộng dựa trên Factory Pattern.
-- Tích hợp nhiều OCR provider như Azure Document Intelligence, Tesseract.
+- Tích hợp nhiều OCR provider như Tesseract, Paddle.
 - Nghiên cứu các giải pháp mã nguồn mở thay thế nhằm nâng cao độ tin cậy của hệ thống.
 
 #### CAD Processing
