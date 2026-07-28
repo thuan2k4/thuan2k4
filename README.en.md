@@ -1,11 +1,10 @@
-
 <p align="right">
   <a href="README.md">🇻🇳 Vietnamese version</a>
 </p>
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Đào%20Quang%20Thuận&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%7C%20Vibe%20Coding&descAlignY=65&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Đào%20Quang%20Thuận&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend-Oriented&descAlignY=65&descSize=20&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -19,11 +18,9 @@
 
 ### 💻 Software Engineer
 
-*Originally a Backend & AI Engineer, I expanded my capabilities into Software Engineering through **"Vibe Coding"** to optimize deployment speed and user experience.*
+Backend-oriented Software Engineer with hands-on experience building production-oriented backend services, asynchronous processing systems and AI-enabled applications.
 
-- ⚡ **Journey**: Started with AI & Backend research, I now combine the power of AI Agents with system knowledge to build end-to-end products.
-- 🛠️ **Key Strengths**: Designing flexible architectures, handling asynchronous challenges, and optimizing operational costs for real-world projects.
-- 💡 **Mindset**: Focused on transforming ideas into stable, operational products in the shortest time possible while maintaining technical standards.
+Experienced in researching and integrating open-source technologies into real-world software products, with a strong focus on scalability, maintainability and production stability.
 
 ---
 
@@ -31,55 +28,110 @@
 
 - ⚙️ **Backend**: Python (FastAPI, Flask), Node.js (NestJS, Express), C# (ASP.NET Core)
 - 🎨 **Frontend**: React, Vite, TailwindCSS
-- 🛢️ **Databases**: PostgreSQL, MongoDB, Firebase (Firestore)
-- 🔄 **Async & Realtime**: Celery, Message Queue, WebSocket (Socket.io)
-- 🤖 **AI & Applied Engineering**: Audio DSP (FFmpeg, Librosa, Pydub), Computer Vision - Application (YOLO, EfficientNet), OCR - Application (VietOCR, PaddleOCR, TesseractOCR)
-- 🚀 **DevOps & Cloud**: Git, Docker, GitHub Actions, Azure Service Bus/Storage
+- 🛢️ **Databases**: PostgreSQL, MongoDB, Firebase (Firestore), MinIO
+- 🔄 **Async & Realtime**: Celery, Azure Service Bus, WebSocket (Socket.io)
+- 🤖 **AI & Applied Engineering**: Audio Processing (FFmpeg, Librosa, Pydub), Computer Vision Applications, Document AI / OCR Integration (Azure Document Intelligence, VietOCR, Tesseract)
+- 🚀 **DevOps & Cloud**: Git, Docker, GitHub Actions
 
 ---
 
-### 💼 Software Engineer Intern at `<Tenomad (Vietnam)/>`
+### 💼 Software Engineer Intern | Tenomad
 *Timeline: Apr 2025 – Present*
 
-**Key Responsibilities & Achievements:**
-- 🎙️ **Audio AI Processing**: Designed and optimized a high-performance asynchronous audio processing pipeline. Researched and integrated digital signal processing (DSP) solutions to enhance audio quality, while optimizing the architecture to reduce overall system latency by 23%.
-- 📄 **Enterprise Document Digitization**: Co-designed async pipeline with FastAPI, Celery, Message Queue. Architected pluggable OCR provider (Factory Pattern). Built NestJS Document Service with WebSocket.
-- 📱 **Digital QR Menu System**: Migrated Firestore to PostgreSQL, ported React templates, integrated MinIO storage.
-- 🖨️ **Commercial Printing Service**: Reduced response latency by 20%, refactored SQL queries to prevent connection pooling exhaustion.
+Worked across multiple internal and client-oriented software projects involving backend systems, AI-assisted applications and asynchronous processing.
+
+#### Enterprise Document Processing
+- Built asynchronous document processing services using FastAPI, Celery and Azure Service Bus.
+- Designed an extensible OCR architecture using the Factory Pattern.
+- Integrated multiple OCR providers including Azure Document Intelligence and Tesseract.
+- Researched open-source alternatives to improve system resilience.
+
+#### CAD Processing
+- Implemented server-side preview generation for CAD files (DWG/DXF/STL).
+- Optimized resource usage for large engineering files to improve production stability.
+
+#### AI-assisted Audio Application
+- Built backend services integrating FFmpeg and Librosa for AI-assisted music generation.
+- Investigated production issues related to memory usage and asynchronous workloads.
+
+#### Product Delivery
+- Participated in MVP delivery, production debugging, issue investigation and client feedback handling.
+- Collaborated with PMs, designers and backend engineers throughout development iterations.
 
 ---
 
-### 🚀 Solo Fullstack Developer (Freelance) at `<QR Menu Maker/>`
-*Timeline: Apr 2026 – Present*
+### 🚀 QR Menu Maker
+*Full-stack SaaS platform for digital restaurant menus*
 
-**Key Responsibilities & Achievements:**
-- ☕ **Platform**: Self-ordering system deployed at 2 coffee shops with dynamic QR payments, Telegram Bot order management, Firestore read optimization (70-90% reduction), and CI/CD pipeline.
-- ✨ **Key Features**: Realtime theme editor with live preview; Geospatial delivery validation; Daily analytics aggregation; Client-side IndexedDB caching.
+**Key Features:**
+- Dynamic QR ordering
+- VietQR payment
+- Telegram order bot
+- Theme editor with realtime preview
+- Multi-template menu system
+- Firestore → PostgreSQL migration
+- MinIO image storage
+- Docker deployment
 
 ---
 
-### 🏗️ Selected Projects
+### 🛠️ Engineering Experience
 
-- 🛒 **Fullstack E-Commerce** (Sept – Oct 2025): React, Express.js, MongoDB, JWT, Jest. RESTful APIs with RBAC, 80%+ test coverage.
-- 🪪 **CCCD Extraction System** (Apr – May 2025): YOLO + VietOCR + Flask. Automated Vietnamese ID card information extraction.
-- 🏠 **Smart Home IoT** (Dec 2022 – Dec 2023): ESP8266, MicroPython, SQLite, MQTT. "Outstanding Research Project" award.
+During my internship and project developments, I gained practical experience in:
+
+- Backend API development
+- Async processing
+- Queue-based architecture
+- OCR integration
+- CAD preview generation
+- Audio processing workflow
+- Production debugging
+- Requirement analysis
+- Technical research
+- MVP delivery
+
+---
+
+### 🎯 Engineering Interests
+
+- Backend Engineering
+- Distributed Systems
+- AI Applications
+- Software Architecture
+- Developer Experience
+
+---
+
+### 🏗️ Featured Projects
+
+#### 1. QR Menu Maker
+Full-stack SaaS platform for digital restaurant menus featuring dynamic QR payment, Telegram order bot, realtime theme editor, and optimized data migration architecture.
+
+#### 2. Enterprise OCR & Document Processing
+Asynchronous document digitization & processing system built with FastAPI, Celery, Azure Service Bus, and flexible OCR Factory pattern.
+
+#### 3. Fullstack E-Commerce
+Full-stack e-commerce app built with React, Express.js, MongoDB, JWT, featuring RBAC RESTful APIs and 80%+ test coverage.
+
+#### 4. Smart Home IoT
+Smart home IoT application built with ESP8266, MicroPython, SQLite, and MQTT. Received "Outstanding Research Project" award.
 
 ---
 
 ### 🖼️ Preview: QR Menu Maker
 
 <table align="center">
-  <tr>
-    <td colspan="4">
-      <img src="assets/preview_1.png" alt="Hero View" width="1000" style="border-radius:8px;" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/preview_2.png" alt="Desktop Menu" width="240" style="border-radius:6px;" /></td>
-    <td align="center"><img src="assets/preview_3.png" alt="Telegram Notification" width="240" style="border-radius:6px;" /></td>
-    <td align="center"><img src="assets/preview_4.png" alt="Admin Theme Editor" width="240" style="border-radius:6px;" /></td>
-    <td align="center"><img src="assets/preview_5.png" alt="VietQR Payment" width="240" style="border-radius:6px;" /></td>
-  </tr>
+	<tr>
+		<td colspan="4">
+			<img src="assets/preview_1.png" alt="Hero View" width="1000" style="border-radius:8px;" />
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><img src="assets/preview_2.png" alt="Desktop Menu" width="240" style="border-radius:6px;" /></td>
+		<td align="center"><img src="assets/preview_3.png" alt="Telegram Notification" width="240" style="border-radius:6px;" /></td>
+		<td align="center"><img src="assets/preview_4.png" alt="Admin Theme Editor" width="240" style="border-radius:6px;" /></td>
+		<td align="center"><img src="assets/preview_5.png" alt="VietQR Payment" width="240" style="border-radius:6px;" /></td>
+	</tr>
 </table>
 
 ---
@@ -95,8 +147,4 @@
 <!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <i>Last updated: May 2nd, 2026</i>
 </p>

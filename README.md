@@ -1,11 +1,10 @@
-
 <p align="right">
   <a href="README.en.md">🌐 English version</a>
 </p>
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Đào%20Quang%20Thuận&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%7C%20Vibe%20Coding&descAlignY=65&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Đào%20Quang%20Thuận&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend-Oriented&descAlignY=65&descSize=20&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -17,52 +16,105 @@
 
 ---
 
-### 💻 Kỹ sư Phần mềm (Software Engineer)
+### 💻 Software Engineer
 
-*Xuất thân là Backend & AI Engineer, tôi mở rộng năng lực sang Software Engineering thông qua tư duy **"Vibe Coding"** để tối ưu hóa tốc độ triển khai và trải nghiệm người dùng.*
+Backend-oriented Software Engineer với kinh nghiệm thực tế trong việc xây dựng các dịch vụ backend chạy production, hệ thống xử lý bất đồng bộ và ứng dụng tích hợp AI.
 
-- ⚡ **Hành trình**: Bắt đầu với các nghiên cứu AI & Backend, hiện tại tôi kết hợp sức mạnh của AI Agents và kiến thức hệ thống để xây dựng sản phẩm end-to-end.
-- 🛠️ **Thế mạnh**: Thiết kế kiến trúc linh hoạt, xử lý các bài toán bất đồng bộ và tối ưu hóa chi phí vận hành cho dự án thực tế.
-- 💡 **Tư duy**: Chú trọng vào việc biến ý tưởng thành sản phẩm vận hành ổn định trong thời gian ngắn nhất mà vẫn đảm bảo tiêu chuẩn kỹ thuật.
+Có kinh nghiệm nghiên cứu và tích hợp các công nghệ mã nguồn mở vào sản phẩm phần mềm thực tế, chú trọng vào khả năng mở rộng (scalability), tính dễ bảo trì (maintainability) và độ ổn định khi vận hành (production stability).
 
 ---
 
-### 🧠 Kỹ năng Kỹ thuật
+### 🧠 Technical Skills
 
 - ⚙️ **Backend**: Python (FastAPI, Flask), Node.js (NestJS, Express), C# (ASP.NET Core)
 - 🎨 **Frontend**: React, Vite, TailwindCSS
-- 🛢️ **Cơ sở dữ liệu**: PostgreSQL, MongoDB, Firebase (Firestore)
-- 🔄 **Bất đồng bộ & Realtime**: Celery, Message Queue, WebSocket (Socket.io)
-- 🤖 **AI & Ứng dụng Kỹ thuật**: Audio DSP (FFmpeg, Librosa, Pydub), Computer Vision - Application (Yolo, EfficientNet), OCR - Application (VietOCR, PaddleOCR, TesseractOCR)
-- 🚀 **DevOps & Cloud**: Git, Docker, GitHub Actions, Azure Service Bus/Storage
+- 🛢️ **Databases**: PostgreSQL, MongoDB, Firebase (Firestore), MinIO
+- 🔄 **Async & Realtime**: Celery, Azure Service Bus, WebSocket (Socket.io)
+- 🤖 **AI & Applied Engineering**: Audio Processing (FFmpeg, Librosa, Pydub), Computer Vision Applications, Document AI / OCR Integration (Azure Document Intelligence, VietOCR, Tesseract)
+- 🚀 **DevOps & Cloud**: Git, Docker, GitHub Actions
 
 ---
 
-### 💼 Kỹ sư Phần mềm Thực tập tại `<Tenomad (Việt Nam)/>`
+### 💼 Software Engineer Intern | Tenomad
 *Thời gian: 04/2025 – Hiện tại*
 
-**Trách nhiệm chính & Thành tựu:**
-- 🎙️ **Xử lý Âm thanh AI**: Thiết kế và tối ưu hóa pipeline xử lý âm thanh bất đồng bộ hiệu năng cao. Nghiên cứu và tích hợp các giải pháp xử lý tín hiệu số (DSP) để nâng cao chất lượng âm thanh, đồng thời tối ưu hóa kiến trúc giúp giảm 23% độ trễ của toàn bộ hệ thống.
-- 📄 **Số hóa Tài liệu Doanh nghiệp**: Đồng thiết kế pipeline xử lý bất đồng bộ với FastAPI, Celery. Xây dựng kiến trúc OCR provider (Factory Pattern). Phát triển Document Service trên NestJS với WebSocket.
-- 📱 **Hệ thống Menu QR Số**: Di chuyển dữ liệu từ Firestore sang PostgreSQL, chuyển đổi giao diện React, tích hợp lưu trữ MinIO.
-- 🖨️ **Dịch vụ In Thương mại**: Giảm độ trễ phản hồi 20%, tái cấu trúc truy vấn SQL để ngăn cạn kiệt kết nối CSDL.
+Làm việc trên nhiều dự án phần mềm nội bộ và client-facing liên quan đến hệ thống backend, ứng dụng tích hợp AI và xử lý bất đồng bộ.
+
+#### Enterprise Document Processing
+- Xây dựng dịch vụ xử lý tài liệu bất đồng bộ sử dụng FastAPI, Celery và Azure Service Bus.
+- Thiết kế kiến trúc OCR linh hoạt và mở rộng dựa trên Factory Pattern.
+- Tích hợp nhiều OCR provider như Azure Document Intelligence, Tesseract.
+- Nghiên cứu các giải pháp mã nguồn mở thay thế nhằm nâng cao độ tin cậy của hệ thống.
+
+#### CAD Processing
+- Triển khai tính năng xem trước tệp CAD (DWG/DXF/STL) phía server (server-side preview generation).
+- Tối ưu hóa việc sử dụng tài nguyên cho các tệp kỹ thuật dung lượng lớn để nâng cao độ ổn định hệ thống.
+
+#### AI-assisted Audio Application
+- Xây dựng dịch vụ backend tích hợp FFmpeg và Librosa phục vụ quy trình tạo nhạc hỗ trợ bởi AI.
+- Điều tra và giải quyết các sự cố production liên quan đến bộ nhớ và khối lượng công việc bất đồng bộ.
+
+#### Product Delivery
+- Tham gia hoàn thiện MVP, debugging môi trường production, điều tra lỗi và xử lý phản hồi từ khách hàng.
+- Phối hợp chặt chẽ với PM, Designer và Backend Engineer trong suốt các chu kỳ phát triển.
 
 ---
 
-### 🚀 Lập trình viên Fullstack Độc lập tại `<QR Menu Maker/>`
-*Thời gian: 04/2026 – Hiện tại*
+### 🚀 QR Menu Maker
+*Full-stack SaaS platform for digital restaurant menus*
 
-**Trách nhiệm chính & Thành tựu:**
-- ☕ **Nền tảng**: Hệ thống đặt món tự động triển khai tại 2 quán cà phê với thanh toán QR động, quản lý đơn hàng qua Telegram Bot, tối ưu đọc Firestore (giảm 70-90%), và pipeline CI/CD.
-- ✨ **Tính năng nổi bật**: Trình chỉnh sửa giao diện thời gian thực với xem trước trực tiếp; Xác thực giao hàng bằng vị trí địa lý; Bộ nhớ đệm IndexedDB phía client.
+**Key Features:**
+- Dynamic QR ordering
+- VietQR payment
+- Telegram order bot
+- Theme editor with realtime preview
+- Multi-template menu system
+- Firestore → PostgreSQL migration
+- MinIO image storage
+- Docker deployment
+
+---
+
+### 🛠️ Engineering Experience
+
+Trong thời gian thực tập và triển khai dự án, tôi đã tích lũy kinh nghiệm trong các mảng:
+
+- Backend API development
+- Async processing
+- Queue-based architecture
+- OCR integration
+- CAD preview generation
+- Audio processing workflow
+- Production debugging
+- Requirement analysis
+- Technical research
+- MVP delivery
+
+---
+
+### 🎯 Engineering Interests
+
+- Backend Engineering
+- Distributed Systems
+- AI Applications
+- Software Architecture
+- Developer Experience
 
 ---
 
 ### 🏗️ Dự án tiêu biểu
 
-- 🛒 **Thương mại Điện tử Fullstack** (09/2025 – 10/2025): React, Express.js, MongoDB, JWT. RESTful APIs với RBAC, đạt 80%+ độ phủ kiểm thử.
-- 🪪 **Trích xuất Thông tin CCCD** (04/2025 – 05/2025): YOLO + VietOCR + Flask. Tự động trích xuất thông tin từ căn cước công dân Việt Nam.
-- 🏠 **IoT Nhà Thông Minh** (12/2022 – 12/2023): ESP8266, MicroPython, SQLite, MQTT. Giải thưởng “Dự án Nghiên cứu Xuất sắc”.
+#### 1. QR Menu Maker
+Hệ thống đặt món qua QR cho nhà hàng/quán cà phê với dynamic QR payment, Telegram bot quản lý đơn hàng, realtime theme editor và kiến trúc chuyển đổi dữ liệu tối ưu.
+
+#### 2. Enterprise OCR & Document Processing
+Hệ thống trích xuất và xử lý tài liệu doanh nghiệp sử dụng FastAPI, Celery, Azure Service Bus và kiến trúc OCR linh hoạt (Factory Pattern).
+
+#### 3. Fullstack E-Commerce
+Ứng dụng thương mại điện tử xây dựng bằng React, Express.js, MongoDB, JWT với RBAC RESTful API và test coverage 80%+.
+
+#### 4. Smart Home IoT
+Hệ thống nhà thông minh dựa trên ESP8266, MicroPython, SQLite, MQTT. Đạt giải thưởng “Dự án Nghiên cứu Xuất sắc”.
 
 ---
 
