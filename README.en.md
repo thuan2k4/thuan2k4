@@ -43,7 +43,7 @@ Worked across multiple internal and client-oriented software projects involving 
 #### Enterprise Document Processing
 - Built asynchronous document processing services using FastAPI, Celery and Azure Service Bus.
 - Designed an extensible OCR architecture using the Factory Pattern.
-- Integrated multiple OCR providers including Azure Document Intelligence and Tesseract.
+- Integrated multiple OCR providers including Paddle and Tesseract.
 - Researched open-source alternatives to improve system resilience.
 
 #### CAD Processing
