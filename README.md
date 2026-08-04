@@ -36,7 +36,7 @@ Có kinh nghiệm nghiên cứu và tích hợp các công nghệ mã nguồn m�
 ---
 
 ### 💼 Software Engineer Intern | Tenomad
-*Thời gian: 04/2025 – Hiện tại*
+*Thời gian: 04/2025 – 07/2026*
 
 Làm việc trên nhiều dự án phần mềm nội bộ và client-facing liên quan đến hệ thống backend, ứng dụng tích hợp AI và xử lý bất đồng bộ.
 
